@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:mega",
+    "sketch": "motor_mega\\motor_mega.ino",
+    "configuration": "cpu=atmega2560",
+    "port": "COM8",
+    "output": "../build"
+}
