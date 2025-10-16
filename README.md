@@ -1,5 +1,7 @@
 # TEL_RobotControl Repository README
 
+> Detailed Documentation (made by [deepwiki](https://deepwiki.com/)): [https://deepwiki.com/Bacon9629/TEL_RobotControl](https://deepwiki.com/Bacon9629/TEL_RobotControl)
+
 This repository contains the firmware for a robot control system built on Arduino Mega, designed for a competition involving autonomous navigation and object manipulation missions.
 
 ## Overview
@@ -8,6 +10,8 @@ The system implements a polling-based architecture where the main controller (Ar
 
 ## Architecture
 
+ <img width="1282" height="1175" alt="image" src="https://github.com/user-attachments/assets/4a32a503-42b6-4c8a-987b-45fe274c96a7" />
+ 
 ### Main Components
 
 **Communication System** (`Communicate` class)
@@ -88,4 +92,6 @@ This is a competition robot firmware with mission-specific logic hardcoded for a
 
 Wiki pages you might want to explore:
 - [Main Loop and Event Processing (Bacon9629/TEL_RobotControl)](/wiki/Bacon9629/TEL_RobotControl#4.2)
+
+
 
